@@ -1,0 +1,72 @@
+[
+  {
+    "isbn": "9780141036144",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "year": 2003,
+    "reviews": {}
+  },
+  {
+    "isbn": "9780062315007",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "reviews": {}
+  },
+  {
+    "isbn": "9780743273565",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "reviews": {}
+  },
+  {
+    "isbn": "9780451524935",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "reviews": {}
+  },
+  {
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "reviews": {}
+  },
+  {
+    "isbn": "9780307887894",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "year": 2011,
+    "reviews": {}
+  },
+  {
+    "isbn": "9780590353427",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J. K. Rowling",
+    "year": 1997,
+    "reviews": {}
+  },
+  {
+    "isbn": "9780553380163",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "year": 1988,
+    "reviews": {}
+  },
+  {
+    "isbn": "9780385537858",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "year": 2019,
+    "reviews": {}
+  },
+  {
+    "isbn": "9780385472579",
+    "title": "The Client",
+    "author": "John Grisham",
+    "year": 1993,
+    "reviews": {}
+  }
+]
