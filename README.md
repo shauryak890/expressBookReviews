@@ -1,3 +1,4 @@
+ HEAD
 # Express Book Review API
 
 A Node.js/Express REST API for a book catalogue, ISBN/author/title searches, user registration/login, and review management. The assignment helper `general.js` uses Axios with async/await.
@@ -125,3 +126,6 @@ Replace `YOUR-USERNAME` with your actual username and change `main` to `master` 
 ## Notes about evidence
 
 The capture scripts save real command/response pairs from your running API. Review the output files before uploading them to the course platform. Do not submit placeholder output as if it came from your GitHub repository. `githubrepo` should be captured from your real fork's GitHub API response.
+
+# coding-project-template
+fa6bb07442d70a4ea72d26c6731d8ff57ed4f9d6
